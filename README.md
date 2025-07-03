@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
