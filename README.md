@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0048-rotate-image) |
+| [0169-majority-element](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -28,4 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0183-customers-who-never-order) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
