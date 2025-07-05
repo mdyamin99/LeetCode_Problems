@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -58,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
@@ -88,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0506-relative-ranks) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
