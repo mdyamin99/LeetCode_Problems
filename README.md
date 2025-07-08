@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1137-height-checker](https://github.com/mdyamin99/LeetCode_Problems/tree/master/1137-height-checker) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1137-height-checker](https://github.com/mdyamin99/LeetCode_Problems/tree/master/1137-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/mdyamin99/LeetCode_Problems/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
