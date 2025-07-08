@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/mdyamin99/LeetCode_Problems/tree/master/1137-height-checker) |
+| [1970-sorting-the-sentence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/1970-sorting-the-sentence) |
 ## Counting
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [1970-sorting-the-sentence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/1970-sorting-the-sentence) |
 ## Binary Search
 |  |
 | ------- |
