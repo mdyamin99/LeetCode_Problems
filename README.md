@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0969-number-of-recent-calls) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
