@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/mdyamin99/LeetCode_Problems/tree/master/1137-height-checker) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mdyamin99/LeetCode_Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Math
 |  |
 | ------- |
@@ -120,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0495-teemo-attacking) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mdyamin99/LeetCode_Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Stack
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mdyamin99/LeetCode_Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0969-number-of-recent-calls) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/mdyamin99/LeetCode_Problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
