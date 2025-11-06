@@ -117,4 +117,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0495-teemo-attacking) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
