@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Divide and Conquer
@@ -74,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0594-longest-harmonious-subsequence) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [1970-sorting-the-sentence](https://github.com/mdyamin99/LeetCode_Problems/tree/master/1970-sorting-the-sentence) |
 ## Binary Search
@@ -129,4 +132,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/mdyamin99/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
